@@ -2,7 +2,7 @@
 
 Cross-species map of the mouse and human bone marrow stromal niche.
 
-NicheX builds a small, reproducible pipeline that:
+NicheX builds a reproducible pipeline that:
 
 * preprocesses mouse and human bone marrow stromal scRNA-seq datasets
 * defines stromal / endothelial niches and their marker genes
